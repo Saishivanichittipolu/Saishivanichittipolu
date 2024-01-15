@@ -7,3 +7,5 @@ I'm Sai Shivani, a passionate web developer and data analyst based in Hyderabad,
 - 🌱 I specialize in Python, Flask, HTML, and CSS.
 - 🚀 I'm always eager to take on new challenges and contribute to exciting projects.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saishivanichittipolu)(https://github.com/anuraghazra/github-readme-stats)
+
